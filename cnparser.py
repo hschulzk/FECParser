@@ -2,10 +2,10 @@ import pypyodbc
 import datetime
 connection = pypyodbc.connect(
 'Driver={SQL Server};'
-'Server=L1196-Schulzke\Hans1;'
-'Database=FEC;'
-'uid=SQL_Hans;'
-'pwd=Nonnobis1415'
+'Server=redacted;'
+'Database=redacted;'
+'uid=redacted;'
+'pwd=redacted'
 )
 
 count = 0
